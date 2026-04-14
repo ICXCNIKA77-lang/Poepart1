@@ -9,7 +9,7 @@ package com.mycompany.poepart1;
  * @author given
  */
 public class Login {
-  //First declare your variables
+  //First declare your variable
    private final String firstName;
    private final String lastName;
    private final String userName;
